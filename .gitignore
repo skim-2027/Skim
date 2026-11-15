@@ -1,0 +1,13 @@
+java-benchmarks
+
+
+# Generated files and local metadata
+.gradle/
+build/
+.idea/
+.vscode/
+.DS_Store
+._*
+__MACOSX/
+__pycache__/
+*.pyc
